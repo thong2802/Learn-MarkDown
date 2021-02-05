@@ -247,3 +247,6 @@ Vì vậy đã có nhiều ngôn ngữ ra đời để thay thế HTML làm ngô
    
    -  Các bạn có thể truy cập : [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
  
+
+##### NOTE
+- Bản quyền thuộc về : Coding Dev (Nguyễn Đức Thông) .  
